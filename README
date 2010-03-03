@@ -1,0 +1,5 @@
+1) To compile the program you need CMAKE installed on your system.
+2) After the installation make directory 'build' in the root directory of the program.
+3) Move to the build directory and run command 'cmake ../'. This will tell you if you have to install some dependecies.
+4) Run 'make' command.
+5) Now in the 'bin' direcotry in the program root is binary file named 'voronoi'.
